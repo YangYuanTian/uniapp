@@ -1,0 +1,1 @@
+<scroll-view scroll-y="ture"><block wx:for="{{orders}}" wx:for-item="order" wx:for-index="__i0__"><view>{{''+order.date+''}}</view></block></scroll-view>

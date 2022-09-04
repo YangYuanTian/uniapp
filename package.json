@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "axios": "^0.27.2",
+    "thorui-uni": "^1.9.0",
+    "uni-ajax": "^2.4.5",
+    "uview-ui": "^2.0.33"
+  },
+  "devDependencies": {
+    "node-sass": "^7.0.1",
+    "sass-loader": "^13.0.2"
+  }
+}
